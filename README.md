@@ -5,6 +5,8 @@ By -
 SIDDHARTH SINGH
 Solution by - JEEBANJYOTI BISWAL
 
+Topic - Basic (No of questions = 8)
+
 1) Write a Program to print "Hello, World!"
 ans - https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_1_basic/Question_01.java
 2) Write a Program to Print Integer Number Entered by User
