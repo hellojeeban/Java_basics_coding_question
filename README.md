@@ -35,17 +35,18 @@ Topic - IF_ELSE (No of questions = 5)
 
 1) Write a Program to Check Whether Number is Even or
 Odd
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_01.java
 2) Write a Program to Check Whether a Character is
 Vowel or Consonant.
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_02.java
 3) Write a Program to Find Largest Number Among Three
 Numbers entered by users
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_03.java
 4) Write a Program which accepts coefficients of a
 quadratic equation from the user and displays the roots
 (both real and complex roots depending upon the
 discriminant).
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_04.java
 5) Write a Program to Check whether a year entered by
 user is Leap Year or not
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_05.java
