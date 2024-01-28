@@ -1,7 +1,7 @@
 /*
  * Write a Program to Calculate Power of a Number
-using inbuilt pow() function by taking two inputs from
-users as Base and exponent respectively
+without using inbuilt pow() function by taking two
+inputs from users as Base and exponent respectively
  */
 package Topic_3_LOOP;
 

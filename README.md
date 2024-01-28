@@ -81,11 +81,10 @@ by user
 8) Write a Program to Reverse a given Number N by user
 9) Write a Program to display sum of all digits of a given
 Number N by user
-10) Write a Program to Calculate Power of a Number
+10) Write a Program to Calculate Power of a Number without
 using inbuilt pow() function by taking two inputs from
 users as Base and exponent respectively
-11) Write a Program to Calculate Power of a Number
-without using inbuilt pow() function by taking two
+11) Write a Program to Calculate Power of a Number using inbuilt pow() function by taking two
 inputs from users as Base and exponent respectively
 12) Write a Program to Check Whether a Number N
 entered by user is Palindrome or Not
