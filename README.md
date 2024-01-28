@@ -1,12 +1,12 @@
 TOPIC Ques
-
+<hr>
 TOTAL 65
 By - 
 SIDDHARTH SINGH
 Solution by - JEEBANJYOTI BISWAL
-
+<hr>
 Topic - Basic (No of questions = 8)
-
+<hr>
 1) Write a Program to print "Hello, World!"
  https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_1_basic/Question_01.java
 2) Write a Program to Print Integer Number Entered by User
@@ -30,9 +30,9 @@ in your computer
 entered by User
  https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_1_basic/Question_08.java
 
-
+<hr>
 Topic - IF_ELSE (No of questions = 5)
-
+<hr>
 1) Write a Program to Check Whether Number is Even or
 Odd
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_01.java
@@ -51,9 +51,9 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-
 user is Leap Year or not
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_05.java
 
-
+<hr>
 Topic - LOOP (No of Questions = 16)
-
+<hr>
 1) Write a Program to Calculate Sum of first N Natural
 Numbers (here value of N is Entered by user)
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_01.java
@@ -82,23 +82,32 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOO
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_08.java
 9) Write a Program to display sum of all digits of a given
 Number N by user
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_09.java
 10) Write a Program to Calculate Power of a Number
 using inbuilt pow() function by taking two inputs from
 users as Base and exponent respectively
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_10.java
 11) Write a Program to Calculate Power of a Number
 without using inbuilt pow() function by taking two
 inputs from users as Base and exponent respectively
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_11.java
 12) Write a Program to Check Whether a Number N
 entered by user is Palindrome or Not
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_12.java
 13) Write a Program to Check Whether a Number is Prime
 or Not
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_13.java
 14) Write a Program to Display Prime Numbers Between
 Two Intervals (entered by user)
 Example:
 Enter two numbers: 0 20
 Prime numbers between 0 and 20 are:
 2 3 5 7 11 13 17 19
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_14.java
 15) Write a Program to check whether a number entered
 by the user is an Armstrong number or not.
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_15.java
 16) Write a Program to Display all Factors of a Number
 entered by User
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_16.java
+<hr>
