@@ -74,17 +74,19 @@ Fibonacci Series: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89,
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_05.java
 6) Write a Program to Find GCD or HCF of two numbers
 entered by user
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_06.java
 7) Write a Program to Find LCM of two numbers entered
 by user
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_07.java
 8) Write a Program to Reverse a given Number N by user
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_08.java
 9) Write a Program to display sum of all digits of a given
 Number N by user
-10) Write a Program to Calculate Power of a Number without
+10) Write a Program to Calculate Power of a Number
 using inbuilt pow() function by taking two inputs from
 users as Base and exponent respectively
-11) Write a Program to Calculate Power of a Number using inbuilt pow() function by taking two
+11) Write a Program to Calculate Power of a Number
+without using inbuilt pow() function by taking two
 inputs from users as Base and exponent respectively
 12) Write a Program to Check Whether a Number N
 entered by user is Palindrome or Not
