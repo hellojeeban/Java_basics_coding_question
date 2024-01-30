@@ -140,4 +140,4 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * *<br>
 * *<br>
 *<br>
-https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_05.java <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_05.java <br>
