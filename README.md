@@ -111,3 +111,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOO
 entered by User
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_16.java
 <hr>
+Topic - SWITCH & PATTERN (No of Questions = 10)
+<hr>
+1. Write a Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using Switch case. The program should takes an arithmetic operator (+, -, *, /) and two operands from a user and performs the operation on those two operands depending upon the operator entered by the user.
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_01.java
