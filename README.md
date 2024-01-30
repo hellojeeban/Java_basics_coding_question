@@ -1,4 +1,4 @@
-<h1>TOPIC Ques
+<h1>TOPIC Questions
 <hr>
 TOTAL 65
 By - 
