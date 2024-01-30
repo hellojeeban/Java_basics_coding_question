@@ -116,9 +116,10 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOO
 1. Write a Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using Switch case. The program should takes an arithmetic operator (+, -, *, /) and two operands from a user and operates on those two operands depending upon the operator entered by the user.
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_01.java <br>
 2. Solid Rectangular star<br>
-* * * * *<br>
-* * * * *<br>
-* * * * *<br>
+<pre>
+* * * * *
+* * * * *
+* * * * *</pre>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_02.java <br>
 3. Hollow Rectangular star <br>
 <pre>
@@ -127,19 +128,21 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * * * *</pre>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_03.java <br>
 4. Half Pyramid Star Pattern<br>
-*<br>
-* *<br>
-* * *<br>
-* * * *<br>
-* * * * *<br>
+<pre>
+*
+* *
+* * *
+* * * *
+* * * * *</pre>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_04.java <br>
 5. Inverted Half pyramid <br>
-* * * * * *<br>
-* * * * *<br>
-* * * *<br>
-* * *<br>
-* *<br>
-*<br>
+<pre>
+* * * * * *
+* * * * *
+* * * *
+* * *
+* *
+*</pre>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_05.java <br>
 6. Full Pyramid Star Pattern<br>
 <pre>
