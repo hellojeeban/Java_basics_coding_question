@@ -5,7 +5,7 @@ By -
 SIDDHARTH SINGH
 Solution by - JEEBANJYOTI BISWAL
 <hr>
-Topic - Basic (No of questions = 8)
+<h1>Topic - Basic (No of questions = 8)</h1>
 <hr>
 1) Write a Program to print "Hello, World!"
  https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_1_basic/Question_01.java <br>
@@ -31,7 +31,7 @@ entered by User
  https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_1_basic/Question_08.java <br>
 
 <hr>
-Topic - IF_ELSE (No of questions = 5)
+<h1>Topic - IF_ELSE (No of questions = 5)</h1>
 <hr>
 1) Write a Program to Check Whether Number is Even or
 Odd
@@ -52,7 +52,7 @@ user is Leap Year or not
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_2_If-else/T2_Question_05.java <br>
 
 <hr>
-Topic - LOOP (No of Questions = 16)
+<h1>Topic - LOOP (No of Questions = 16)</h1>
 <hr>
 1) Write a Program to Calculate Sum of first N Natural
 Numbers (here value of N is Entered by user)
@@ -111,7 +111,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOO
 entered by User
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_3_LOOP/T3_Question_16.java <br>
 <hr>
-Topic - SWITCH & PATTERN (No of Questions = 10)
+<h1>Topic - SWITCH & PATTERN (No of Questions = 10)</h1>
 <hr>
 1. Write a Program to Make a Simple Calculator to Add, Subtract, Multiply or Divide Using Switch case. The program should takes an arithmetic operator (+, -, *, /) and two operands from a user and performs the operation on those two operands depending upon the operator entered by the user.
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_01.java <br>
