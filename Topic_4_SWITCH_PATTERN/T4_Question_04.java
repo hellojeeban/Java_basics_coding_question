@@ -10,7 +10,7 @@ package Topic_4_SWITCH_PATTERN;
 
 import java.util.Scanner;
 
-public class T5_Question_04 {
+public class T4_Question_04 {
     public static void main(String[] args) {
        Scanner in = new Scanner(System.in);
        System.out.println("Enter a number"); 

@@ -119,7 +119,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * * * *<br>
 * * * * *<br>
 * * * * *<br>
-https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_02.java <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_02.java <br>
 3. Hollow Rectangular star <br>
 <pre>
 * * * * *
@@ -132,7 +132,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * *<br>
 * * * *<br>
 * * * * *<br>
-https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_04.java <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_04.java <br>
 5. Inverted Half pyramid <br>
 * * * * * *<br>
 * * * * *<br>
@@ -140,4 +140,54 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * *<br>
 * *<br>
 *<br>
-https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_05.java <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_05.java <br>
+6. Full Pyramid Star Pattern<br>
+<pre>
+      *
+     * *
+    * * *
+   * * * *
+  * * * * *
+ * * * * * *
+</pre> 
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_06.java
+<br>
+7. Inverted Full pyramid
+<pre>
+* * * * * *
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
+</pre>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_07.java 
+<br>
+8. Hollow Full Pyramid Star
+<pre>
+     *
+   *   *
+ *       *
+* * * * * *
+</pre>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_08.java 
+<br>
+9. Half pyramid using numbers
+<pre>
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5</pre>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_09.java 
+<br>
+10. Pascal Triangle
+ <pre>
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+</pre>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_10.java 
+<br>
