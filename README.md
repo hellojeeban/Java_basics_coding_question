@@ -121,9 +121,10 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * * * *<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_02.java <br>
 3. Hollow Rectangular star <br>
-* * * * *<br>
-*       *<br>
-* * * * *<br>
+<pre>
+* * * * *
+*       *
+* * * * *</pre>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_03.java <br>
 4. Half Pyramid Star Pattern<br>
 *<br>
