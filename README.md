@@ -1,9 +1,9 @@
-TOPIC Ques
+<h1>TOPIC Ques
 <hr>
 TOTAL 65
 By - 
 SIDDHARTH SINGH
-Solution by - JEEBANJYOTI BISWAL
+Solution by - JEEBANJYOTI BISWAL</h1>
 <hr>
 <h1>Topic - Basic (No of questions = 8)</h1>
 <hr>
