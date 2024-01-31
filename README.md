@@ -126,7 +126,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 * * * * *
 *       *
 * * * * *</pre>
-https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T5_Question_03.java <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_question_03.java <br>
 4. Half Pyramid Star Pattern<br>
 <pre>
 *
