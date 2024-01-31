@@ -199,7 +199,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 <hr>
 1. Write a Program to Display Prime Numbers Between Two
 Intervals (entered by the user) Using Functions <br>
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_01.java <br>
 2. Write a Program to check if an integer (entered by the user)
 can be expressed as the sum of two prime numbers,if yes then
 print all possible combinations with the use of functions.
@@ -213,9 +213,10 @@ OUTPUT:
 34 = 11 + 23
 34 = 17 + 17</pre>
 <br>
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_02.java <br>
 3. Write a Program to Convert Binary Number to Decimal
 manually by creating user-defined functions.<br>
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_03.java <br>
 4. Write a Program to Convert Decimal to Binary number
 manually by creating user-defined functions. <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_04.java <br>
