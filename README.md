@@ -220,3 +220,6 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 4. Write a Program to Convert Decimal to Binary number
 manually by creating user-defined functions. <br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_04.java <br>
+5. Write a Program to Find Sum of N Natural Numbers
+(entered by users) using Recursion<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_05.java <br>
