@@ -195,7 +195,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWI
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_4_SWITCH_PATTERN/T4_Question_10.java 
 <br>
 <hr>
-<h1>Topic - Function & Recursion (No of Questions = 8)</h1>
+<h1>Topic - Function & Recursion (No of Questions = 9)</h1>
 <hr>
 1. Write a Program to Display Prime Numbers Between Two
 Intervals (entered by the user) Using Functions <br>
@@ -236,3 +236,6 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 9. Write a Program to check prime number entered by
 user Using Recursion<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_09.java <br>
+<hr>
+<h1>Topic - ARRAY (No of Questions = 9)</h1>
+<hr>
