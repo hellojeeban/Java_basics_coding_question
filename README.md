@@ -220,6 +220,9 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 4. Write a Program to Convert Decimal to Binary number
 manually by creating user-defined functions. <br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_04.java <br>
+<hr>
+<h3>Recursion</h3>
+<hr>
 5. Write a Program to Find Sum of N Natural Numbers
 (entered by users) using Recursion<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_05.java <br>
@@ -239,3 +242,6 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 <hr>
 <h1>Topic - ARRAY (No of Questions = 9)</h1>
 <hr>
+1. Write a Program that takes N elements (max. value of N is 100
+and N is the float number specified by user) from user, stores data
+in an array and Calculates the average of those numbers.<br>
