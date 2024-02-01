@@ -223,3 +223,6 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 5. Write a Program to Find Sum of N Natural Numbers
 (entered by users) using Recursion<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_05.java <br>
+6. Write a Program to Calculate Factorial of a Number Using
+Recursion <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_06.java <br>
