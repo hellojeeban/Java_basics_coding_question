@@ -245,3 +245,4 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 1. Write a Program that takes N elements (max. value of N is 100
 and N is the float number specified by user) from user, stores data
 in an array and Calculates the average of those numbers.<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_01.java <br>
