@@ -226,3 +226,13 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 6. Write a Program to Calculate Factorial of a Number Using
 Recursion <br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_06.java <br>
+7. Write a Program to Find G.C.D of two numbers entered by
+user Using Recursion <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_07.java <br>
+8. Write a Program that calculates the power of a number
+using recursion where base and exponent is entered by the
+user. <br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_08.java <br>
+9. Write a Program to check prime number entered by
+user Using Recursion<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_09.java <br>
