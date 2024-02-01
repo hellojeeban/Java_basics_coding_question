@@ -246,3 +246,6 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 and N is the float number specified by user) from user, stores data
 in an array and Calculates the average of those numbers.<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_01.java <br>
+2. Write a Program that takes n element from user and displays
+the largest element of an array<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_02.java <br>
