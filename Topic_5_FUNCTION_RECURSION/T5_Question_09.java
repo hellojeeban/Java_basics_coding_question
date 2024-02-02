@@ -2,7 +2,7 @@
  * Write a Program to check prime number entered by
 user Using Recursion
  */
-
+package Topic_5_FUNCTION_RECURSION;
 import java.util.Scanner;
 
 public class T5_Question_09 {

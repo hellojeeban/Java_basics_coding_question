@@ -2,7 +2,7 @@
  * Write a Program to Calculate Factorial of a Number Using
 Recursion
  */
-
+package Topic_5_FUNCTION_RECURSION;
 import java.util.Scanner;
 
 public class T5_Question_06 {

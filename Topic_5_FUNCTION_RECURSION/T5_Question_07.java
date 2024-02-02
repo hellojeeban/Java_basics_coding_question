@@ -2,7 +2,7 @@
  * Write a Program to Find G.C.D of two numbers entered by
 user Using Recursion
  */
-
+package Topic_5_FUNCTION_RECURSION;
 import java.util.Scanner;
 
 public class T5_Question_07 {
