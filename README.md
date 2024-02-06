@@ -240,7 +240,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 user Using Recursion<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_09.java <br>
 <hr>
-<h1>Topic - ARRAY (No of Questions = 9)</h1>
+<h1>Topic - ARRAY (No of Questions = )</h1>
 <hr>
 1. Write a Program that takes N elements (max. value of N is 100
 and N is the float number specified by user) from user, stores data
@@ -249,3 +249,12 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARR
 2. Write a Program that takes n element from user and displays
 the largest element of an array<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_02.java <br>
+3.Write a Program that calculates the standard deviation of 10
+data using arrays
+
+4.Write a Program that adds two matrices using Multi-
+dimensional Arrays where the number of rows r and columns c is
+entered by user (Value of r and c < 100)
+
+5.Write a Program that takes a matrix of order r*c from the user
+and computes the transpose of the matrix.
