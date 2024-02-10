@@ -1,3 +1,7 @@
+/*
+ * Write a Program to Concatenate (join) Two Strings entered
+by user
+ */
 package Topic_7_Strings;
 
 import java.util.Scanner;
