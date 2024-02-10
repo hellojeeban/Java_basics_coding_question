@@ -263,46 +263,54 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARR
 <h1>Topic - Strings (No of Questions = 10)</h1>
 <hr>
 1. Write a Program to Find the Frequency of given Character by
-user in a String <br>
+user in a String 
+ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_01.java <br>
 
 2. Write a Program to Find the Number of Vowels, Consonants,
-Digits and White Spaces in a String <br>
+Digits and White Spaces in a String
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_02.java <br>
 
 3. Write a Program to Remove all Characters in a String Except
 Alphabets.
 Example:
 Enter a string: p2'r"o@gram84iz./
-Output String: programiz <br>
+Output String: programiz
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_03.java <br>
 4. Write a Program to Find the Length of a String entered by
-user <br>
+user
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_04.java<br>
 5. Write a Program to Concatenate (join) Two Strings entered
-by user <br>
+by user
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_05.java<br>
 
 6. Write a Java program to change every letter in a given string
 with the letter following it in the alphabet (ie. a becomes b, p
 becomes q, z becomes a).
 Example:
 Sample Input: Abcdef3
-Sample Output: Bcdefg3 <br>
+Sample Output: Bcdefg3
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_06.java<br>
 
 
 7. Write a Java program to check if a given string is a
-Palindrome or not. <br>
+Palindrome or not.
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_07.java<br>
 8. Write a Java program to count all the words in a given
 string.Words must be separated by only one space
 Example:
 Sample Input: Siddharth Singh
 Sample Output: number of words -> 2
-<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_08.java<br>
 9. Write a Java program to capitalize the first letter of each
 word of a given string. Words must be separated by only one
 space
 Example:
 Sample Input: cpp string exercises
 Sample Output: Cpp String Exercises
-<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_09.java<br>
 10. Write a Java program to find the largest word in a given
 String.
 Example:
 Sample Input: Java is a general-purpose programming language.
-Sample Output: programming <br>
+Sample Output: programming
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_7_Strings/T7_Question_10.java<br>
