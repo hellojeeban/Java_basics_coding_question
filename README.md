@@ -240,7 +240,7 @@ https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUN
 user Using Recursion<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_5_FUNCTION_RECURSION/T5_Question_09.java <br>
 <hr>
-<h1>Topic - ARRAY (No of Questions = )</h1>
+<h1>Topic - ARRAY (No of Questions = 5)</h1>
 <hr>
 1. Write a Program that takes N elements (max. value of N is 100
 and N is the float number specified by user) from user, stores data
@@ -258,3 +258,52 @@ entered by user (Value of r and c < 100)
 
 5.Write a Program that takes a matrix of order r*c from the user
 and computes the transpose of the matrix.
+
+<br>
+<hr>
+<h1>Topic - Strings (No of Questions = 10)</h1>
+<hr>
+1. Write a Program to Find the Frequency of given Character by
+user in a String <br>
+
+2. Write a Program to Find the Number of Vowels, Consonants,
+Digits and White Spaces in a String <br>
+
+3. Write a Program to Remove all Characters in a String Except
+Alphabets.
+Example:
+Enter a string: p2'r"o@gram84iz./
+Output String: programiz <br>
+4. Write a Program to Find the Length of a String entered by
+user <br>
+5. Write a Program to Concatenate (join) Two Strings entered
+by user <br>
+
+6. Write a Java program to change every letter in a given string
+with the letter following it in the alphabet (ie. a becomes b, p
+becomes q, z becomes a).
+Example:
+Sample Input: Abcdef3
+Sample Output: Bcdefg3 <br>
+
+
+7. Write a Java program to check if a given string is a
+Palindrome or not. <br>
+8. Write a Java program to count all the words in a given
+string.Words must be separated by only one space
+Example:
+Sample Input: Siddharth Singh
+Sample Output: number of words -> 2
+<br>
+9. Write a Java program to capitalize the first letter of each
+word of a given string. Words must be separated by only one
+space
+Example:
+Sample Input: cpp string exercises
+Sample Output: Cpp String Exercises
+<br>
+10. Write a Java program to find the largest word in a given
+String.
+Example:
+Sample Input: Java is a general-purpose programming language.
+Sample Output: programming <br>
