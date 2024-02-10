@@ -251,15 +251,14 @@ the largest element of an array<br>
 https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_02.java <br>
 3.Write a Program that calculates the standard deviation of 10
 data using arrays
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_03.java <br>
 4.Write a Program that adds two matrices using Multi-
 dimensional Arrays where the number of rows r and columns c is
 entered by user (Value of r and c < 100)
-
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_04.java <br>
 5.Write a Program that takes a matrix of order r*c from the user
 and computes the transpose of the matrix.
-
-<br>
+https://github.com/hellojeeban/Java_basics_coding_question/blob/main/Topic_6_ARRAY/T6_Question_05.java <br>
 <hr>
 <h1>Topic - Strings (No of Questions = 10)</h1>
 <hr>
